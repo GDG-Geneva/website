@@ -1,46 +1,19 @@
 [
     {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Management",
+        "name":"Giorgio Moretti",
+        "designation":"Data Intelligence",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"",
+        "linkedin":"https://www.linkedin.com/in/giorgiomoretti/",
+        "github":"https://github.com/giodev",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://www.github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":"https://github.com"
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
+        "name":"Olivier Lange",
+        "designation":"Data Graphs · Data Migration",
+        "twitter":"https://twitter.com/olange",
+        "linkedin":"https://www.linkedin.com/in/olange",
+        "github":"https://github.com/olange",
         "profileImage":"",
         "website":""
     }

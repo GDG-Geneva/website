@@ -1,11 +1,12 @@
-# Aura - GDG[x]
+# Aura - GDG Geneva
+
 [![MadeWithVueJs.com shield](https://madewithvuejs.com/storage/repo-shields/1444-shield.svg)](https://madewithvuejs.com/p/aura/shield-link)
-[![Build Status](https://travis-ci.org/gdg-x/aura.svg?branch=master)](https://travis-ci.org/gdg-x/aura)
+[![Build Status](https://travis-ci.org/gdg-geneva/website.svg?branch=master)](https://travis-ci.org/gdg-geneva/website)
 
 <img width="100%" src="https://raw.githubusercontent.com/GDG-Jalandhar/WebsiteData/master/promotion%20images/Aura%20v1.0.3.png">
 
 Standard Web App for GDG's Communties. <br>
-[Demo](https://aura-client-master.firebaseapp.com/) <br>
+View [demo online](https://gdg-geneva.firebaseapp.com/) <br>
 Version: 1.0.6
 
 ### Show some :heart: and star the repo to support the project
@@ -182,8 +183,7 @@ Awesome! Contributions of all kinds are greatly appreciated. To help smoothen th
 | GDG Kano | [View Now](http://kano.gdg.ng/)|
 | GDG Gandhinagar |[View Now](https://gdggandhinagar.org/) |
 | GDG Craiova | [View Now](https://gdgcraiova.dev/) |
-
-
+| GDG Geneva | [View Now](https://gdg-geneva.org/) |
 
 Project is published under the [MIT license](/LICENSE.md).  
 Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
